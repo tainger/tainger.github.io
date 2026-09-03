@@ -1,5 +1,6 @@
 ---
 lang: en
+permalink: /
 ---
 
 ## Welcome to Trista's Pages
