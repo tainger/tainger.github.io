@@ -1,35 +1,36 @@
 ---
-lang: en
+lang: zh
+permalink: /zh/
 ---
 
-## Welcome to Trista's Pages
+## 欢迎来到 Trista 的主页
 
-### ▶ Personal
+### ▶ 个人信息
 
 |                                |                                                                                             |
 | :-----------------------------: |:-------------------------------------------------------------------------------------------:|
-| Chinese Name: 贾志远              |                                    English Name: Tainger                                    |
-| Gender: Male                 |                                    City: Hangzhou, China                                    | 
-| Job Title: Senior Developer<br>(JD.com) | Community Title: PMC<br>([Apache ShardingSphere](https://github.com/apache/shardingsphere)) |
-| E-mail:<br><a href="mailto:13037135085@163.com">hannkenn@163.com</a> |              Twitter:<br>[trista86934690](https://twitter.com/trista86934690)               |
+| 中文名：贾志远                    |                                    英文名：Tainger                                          |
+| 性别：男                       |                                    城市：中国 杭州                                          | 
+| 职位：高级开发工程师<br>(京东) | 社区身份：PMC<br>([Apache ShardingSphere](https://github.com/apache/shardingsphere)) |
+| 邮箱：<br><a href="mailto:13037135085@163.com">hannkenn@163.com</a> |              Twitter：<br>[trista86934690](https://twitter.com/trista86934690)               |
 
-### ▶ Education
+### ▶ 教育背景
 
-- **Master degree**, major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University
-- **Bachelor degree**, major in Software developing, Sep.2010-Jun.2014, Hebei Normal University
+- **硕士**，可视模式检索与云计算专业，2014.09-2016.06，大连海事大学
+- **本科**，软件开发专业，2010.09-2014.06，河北师范大学
 
-### ▶ Career
+### ▶ 职业经历
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Senior DBA at JD.com**
-- As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
-- As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
-- Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
-- Data base management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
+&nbsp;&nbsp;&nbsp;&nbsp; **京东 高级DBA**
+- 担任分布式数据库中间件平台（Apache ShardingSphere）PMC
+- 担任分布式事务中间件平台（JDTX，未开源）核心开发
+- 负责数据库自动化管理平台（MySQL、Python、DevOps）
+- MySQL 数据库管理（数据建模、恢复、备份、性能优化等）
 
-### ▶ Activities
+### ▶ 活动经历
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
-- Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
-- ApacheCon @Home 2020, "Another backend storage solution for the APM system" (In English)
+- Apache Roadshow China 2020，"数据库化的分布式数据库中间件生态圈极简使用策略"
+- ApacheCon @Home 2020，"Another backend storage solution for the APM system"（英文）
 - TiD 2020质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
 - 技术锁话在线分享，"海量数据下的NewSQL数据库生态构建"
 - OSC源创会第89期，"开源推动下Apache ShardingSphere架构演进"
@@ -63,9 +64,9 @@ lang: en
 - ACMUG2017MySQL年会，"京东金融自动化与智能化运维设计与实践"
 - ODF2017开源数据库论坛（台北），"稳中求进-打造京东金融MySQL运维高可用与自动化"
 
-### ▶ Articles
+### ▶ 文章
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Experience**
+&nbsp;&nbsp;&nbsp;&nbsp; **经验分享**
 - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -74,20 +75,20 @@ lang: en
 - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Technique**
+&nbsp;&nbsp;&nbsp;&nbsp; **技术文章**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
-- [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation)
+- [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ)（翻译）
 - [AI Agent 设计哲学：确定性归代码，不确定性归模型](https://mp.weixin.qq.com/s/kqBByTzSEOj8dqqdtDfyww)
 
 
-### ▶ Video & Audio
-- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Video, as the speaker)
-- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Video, as the speaker)
-- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (Audio, as the hostess)
-- [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (Audio, as the speaker)
-- [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (Audio, as the speaker)
-- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Video, as the speaker)
-- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)(Audio, as the hostess)
-- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)(Video, as the speaker, In English)
+### ▶ 视频与音频
+- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ)（视频，演讲者）
+- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT)（视频，演讲者）
+- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ)（音频，主持人）
+- [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934)（音频，演讲者）
+- [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842)（音频，演讲者）
+- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743)（视频，演讲者）
+- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)（音频，主持人）
+- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)（视频，演讲者，英文）
