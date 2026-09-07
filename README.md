@@ -11,7 +11,7 @@ permalink: /
 | :-----------------------------: |:-------------------------------------------------------------------------------------------:|
 | Chinese Name: 贾志远              |                                    English Name: Tainger                                    |
 | Gender: Male                 |                                    City: Hangzhou, China                                    | 
-| Job Title: Senior Developer<br>(JD.com) | Community Title: PMC<br>([Apache ShardingSphere](https://github.com/apache/shardingsphere)) |
+| Job Title: Senior Developer<br> | Community Title: TODO |
 | E-mail:<br><a href="mailto:13037135085@163.com">hannkenn@163.com</a> |              Twitter:<br>[trista86934690](https://twitter.com/trista86934690)               |
 
 ### ▶ Education

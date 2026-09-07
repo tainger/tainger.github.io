@@ -11,7 +11,7 @@ permalink: /zh/
 | :-----------------------------: |:-------------------------------------------------------------------------------------------:|
 | 中文名：贾志远                    |                                    英文名：Tainger                                          |
 | 性别：男                       |                                    城市：中国 杭州                                          | 
-| 职位：高级开发工程师<br>(京东) | 社区身份：PMC<br>([Apache ShardingSphere](https://github.com/apache/shardingsphere)) |
+| 职位：高级开发工程师<br> | 社区身份：TODO |
 | 邮箱：<br><a href="mailto:13037135085@163.com">hannkenn@163.com</a> |              Twitter：<br>[trista86934690](https://twitter.com/trista86934690)               |
 
 ### ▶ 教育背景
