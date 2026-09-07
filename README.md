@@ -80,7 +80,8 @@ permalink: /
 - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation)
-- [AI Agent 设计哲学：确定性归代码，不确定性归模型](https://mp.weixin.qq.com/s/kqBByTzSEOj8dqqdtDfyww)
+- [AI Agent Design Philosophy: Certainty to Code, Uncertainty to Model](https://mp.weixin.qq.com/s/kqBByTzSEOj8dqqdtDfyww)
+- [The Faster AI Codes, the Faster It Derails. OpenSpec: Hit the Brakes First, Align Before Proceeding](https://mp.weixin.qq.com/s/05X5iQ842T_B1bS8oV1cUg)
 
 
 ### ▶ Video & Audio
