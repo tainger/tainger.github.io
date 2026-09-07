@@ -3,7 +3,7 @@ lang: en
 permalink: /
 ---
 
-## Welcome to Trista's Pages
+## Welcome to Tainger's Pages
 
 ### ▶ Personal
 
@@ -16,8 +16,7 @@ permalink: /
 
 ### ▶ Education
 
-- **Master degree**, major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University
-- **Bachelor degree**, major in Software developing, Sep.2010-Jun.2014, Hebei Normal University
+- **Bachelor degree**, major in Software Development, Sep.2016-Jun.2020, Wuhan Textile University
 
 ### ▶ Career
 
